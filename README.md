@@ -1,5 +1,5 @@
-Krysson Notes
+## #Krysson Notes
 
-A Note taking app for use in law school
+###A Note taking app for use in law school
 
-By: Krysson
+~By: Krysson~

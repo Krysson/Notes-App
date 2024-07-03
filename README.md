@@ -50,5 +50,25 @@ $\color{Apricot}{Notion\ clone\ designed\ for\ Law\ School\ Students\ .}$
     - memos
     - case briefs
 
-<br>
-> Coded By: Krysson
+---
+
+##### Coding Requirements / Framework / Technologies
+
+Needs to be locally installable if wanted - Own your data
+
+Needs to be accessable from any device
+
+Needs to be able save large or potentialy large files (pdfs, video, etc)
+
+- Mongo.db
+- Express.js
+- React.js / Next.js
+- Node.js
+  <br>
+  <br>
+- Python?
+- Django?
+  <br>
+  > Coded By: Krysson
+
+![Coded By: Krysson](Images/Krysson_Consulting_Logo_No_Shadow.jpg)
